@@ -13,7 +13,35 @@
 - [LinkedIn](https://www.linkedin.com/in/tapasya-baidya/) 
 - [Twitter](https://twitter.com/0KnownStranger0)
 
-
+## 💻 My Creative Tech Stack:
+- 🎨 Java
+- 🚀 C++
+- 💻 HTML5 & CSS3 magician
+- 🌈 JavaScript wizard
+- 🐍 Python charmer
+- 🪟 Windows Terminal explorer
+- 🚢 GitHub Pages sailor
+- 🚀 Heroku astronaut
+- 🌌 Netlify navigator
+- 🚀 Render pilot
+- 🚀 Vercel voyager
+- 🅱️ Bootstrap believer
+- 🚄 Express.js conductor
+- ⏭️ Next.js time traveler
+- 🚀 Node.js enthusiast
+- ⚛️ React renderer
+- 🔍 React Query seeker
+- 🛣️ React Router navigator
+- 🪝 React Hook Form tamer
+- 🚀 Redux space explorer
+- 🌪️ Tailwind CSS conjurer
+- 💻 Web3.js alchemist
+- 📝 WordPress wordsmith
+- 💅 Styled Components artisan
+- 🍃 MongoDB gardener
+- 🗄️ MySQL data architect
+- 🚀 GIT version control expert
+- 🐧 LINUX adventurer
 <!--
 **knownstranger-Tapasya/knownstranger-Tapasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
