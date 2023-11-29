@@ -50,6 +50,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=knownstranger-Tapasya&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=knownstranger-Tapasya&label=Profile%20Views&color=6&icon=6&pretty=true" />
+</a>
+
 <!--
 **knownstranger-Tapasya/knownstranger-Tapasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
