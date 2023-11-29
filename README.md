@@ -1,5 +1,12 @@
 # Hey there! 👋 I'm Tapasya, your coding companion!
 
+<p align="left">
+  <a href="https://twitter.com/0KnownStranger0" target="blank">
+    <img src="https://img.shields.io/twitter/follow/0KnownStranger0?logo=twitter&style=for-the-badge" alt="0KnownStranger0" />
+  </a>
+</p>
+
+
 🔭 I’m currently working on crafting delightful web experiences  
 🌱 I’m currently learning the art of Development   
 👯 I’m looking to collaborate on open-source projects that spark creativity  
