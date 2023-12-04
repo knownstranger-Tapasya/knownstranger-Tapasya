@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=knownstranger-Tapasya" alt="knownstranger-Tapasya" /> </a> </p>
 
-## Platforms:
+## 🚩 Platforms:
 <table>
   <tr>
     <td>
@@ -20,9 +20,7 @@
 </table>
 
 
-
-
-
+## ✨ About Me: 
 🔭 I’m currently working on crafting delightful web experiences  
 🌱 I’m currently learning the art of Development   
 👯 I’m looking to collaborate on open-source projects that spark creativity  
@@ -32,7 +30,7 @@
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I turn coffee into code, one cup at a time! ☕💻  
 
-## Let's Connect:
+## 🌐 Let's Connect:
 <p align="left">
   <a href="https://twitter.com/0KnownStranger0" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0KnownStranger0" height="30" width="40" />
