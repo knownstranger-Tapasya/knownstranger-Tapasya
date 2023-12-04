@@ -3,21 +3,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=knownstranger-Tapasya" alt="knownstranger-Tapasya" /> </a> </p>
 
-<p align="left">
-  <a href="https://twitter.com/0KnownStranger0" target="blank">
-    <img src="https://img.shields.io/twitter/follow/0KnownStranger0?logo=twitter&style=for-the-badge" alt="0KnownStranger0" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/knownstranger/profile" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Profile" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://leetcode.com/KnownStranger/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://twitter.com/0KnownStranger0" target="blank">
+        <img src="https://img.shields.io/twitter/follow/0KnownStranger0?logo=twitter&style=for-the-badge" alt="0KnownStranger0" />
+      </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/knownstranger/profile" target="blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Profile" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/KnownStranger/" target="blank">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 🔭 I’m currently working on crafting delightful web experiences  
