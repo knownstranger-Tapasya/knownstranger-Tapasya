@@ -3,13 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=knownstranger-Tapasya" alt="knownstranger-Tapasya" /> </a> </p>
 
+## Platforms:
+
 <table>
   <tr>
-    <td>
-      <a href="https://twitter.com/0KnownStranger0" target="blank">
-        <img src="https://img.shields.io/twitter/follow/0KnownStranger0?logo=twitter&style=for-the-badge" alt="0KnownStranger0" />
-      </a>
-    </td>
     <td>
       <a href="https://auth.geeksforgeeks.org/user/knownstranger/profile" target="blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Profile" />
