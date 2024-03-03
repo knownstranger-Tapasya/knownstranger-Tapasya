@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=knownstranger-Tapasya&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=knownstranger-Tapasya&theme=highcontrast_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=knownstranger-Tapasya&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=knownstranger-Tapasya&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
