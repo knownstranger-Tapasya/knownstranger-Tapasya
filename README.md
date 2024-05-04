@@ -61,8 +61,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/knownstranger-Tapasya/knownstranger-Tapasya/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/arpan9932/arpan9932/output/snake.svg" alt="Snake animation" />
