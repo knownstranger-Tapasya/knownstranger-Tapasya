@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/knownstranger-Tapasya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/knownstranger-Tapasya/knownstranger-Tapasya/output/snake.svg" alt="Snake animation" />
 
 ###
