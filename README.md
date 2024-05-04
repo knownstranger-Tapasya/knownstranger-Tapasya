@@ -59,3 +59,10 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=knownstranger-Tapasya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/knownstranger-Tapasya/output/snake.svg" alt="Snake animation" />
+
+###
